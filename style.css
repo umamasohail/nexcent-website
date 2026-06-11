@@ -1,0 +1,22 @@
+:root {
+    --primarycolor:#4CAF4F;
+    --blackcolor:#18191F;
+}
+.blackcolor{
+    color: var(--blackcolor) !important;
+}
+.textgreen {
+    color: var(--greencolor);
+}
+ .greentext:hover{
+    background-color: var(--greencolor);
+    color: white;
+}
+.bggreen{
+    background-color:var(--greencolor);
+}
+.bggreen:hover{
+    background-color: var(--primarycolor);
+    color: white;
+}
+
