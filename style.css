@@ -24,6 +24,9 @@
     background-color: var(--primarycolor);
     color: white;
 }
+.greendemo{
+    background-color: #4CAF4F;
+}
 .font{
     font-family: inter;
 }
@@ -56,4 +59,13 @@
 .footer{
 
 background-color: #263238;
+}
+
+.vote{
+    padding-left:50px;
+    width:200px;
+    justify
+}
+.vote2{
+    padding-left: ;
 }
